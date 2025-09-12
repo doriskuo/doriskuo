@@ -39,37 +39,37 @@
 ### 💻 WEB Projects
 | Project | 技術亮點 | GitHub | Demo |
 |---------|---------|--------|------|
-| 線上名片 | 設計規劃 | [Repo](https://codepen.io/doriskuo/pen/LYmNpYm)| [Demo](#) |
-| 天氣盒子 | HTML/CSS 綜合應用 | [Repo](https://codepen.io/doriskuo/pen/BabNWMM) | [Demo](#) |
-| 天氣盒子 Q 版 | HTML/CSS | [Repo](https://codepen.io/doriskuo/pen/MWxKJXr) | [Demo](#) |
-| bootstrap-捲動式網頁 | Bootstrap + Skrollr 滾動效果 | [Repo](https://codepen.io/doriskuo/pen/LYaOVQx) | [Demo](#) |
-| yellow-studio設計工作室網頁 | jQuery + RWD | [Repo](https://codepen.io/doriskuo/pen/Jjzpvea?editors=0010) | [Demo](#) |
-| Vue.js-仿博客來書城網頁 | Vue v-if/v-show條件渲染 | [Repo](https://codepen.io/doriskuo/pen/ExMReax)| [Demo](#) |
-| Vue.js-仿課程網站 | Vue + Ajax非同步資料渲染 | [Repo](https://codepen.io/doriskuo/pen/oNVmWog?editors=1010) | [Demo](#) |
+| 線上名片 | 設計規劃 | [Repo](https://codepen.io/doriskuo/pen/LYmNpYm)|  |
+| 天氣盒子 | HTML/CSS 綜合應用 | [Repo](https://codepen.io/doriskuo/pen/BabNWMM) |  |
+| 天氣盒子 Q 版 | HTML/CSS | [Repo](https://codepen.io/doriskuo/pen/MWxKJXr) |  |
+| bootstrap-捲動式網頁 | Bootstrap + Skrollr 滾動效果 | [Repo](https://codepen.io/doriskuo/pen/LYaOVQx) |  |
+| yellow-studio設計工作室網頁 | jQuery + RWD | [Repo](https://codepen.io/doriskuo/pen/Jjzpvea?editors=0010) |  |
+| Vue.js-仿博客來書城網頁 | Vue v-if/v-show條件渲染 | [Repo](https://codepen.io/doriskuo/pen/ExMReax)|  |
+| Vue.js-仿課程網站 | Vue + Ajax非同步資料渲染 | [Repo](https://codepen.io/doriskuo/pen/oNVmWog?editors=1010) |  |
 | 現代化 Admin-Dashboard | SSR, Hot Module Replacement, TypeScript, TailwindCSS | [Repo](https://codepen.io/doriskuo/pen/oNVmWog?editors=1010) | [Demo](https://admin-dashboard-git-main-doriskuos-projects.vercel.app/?_vercel_share=smriKycZnbghu5oE68UuETXx7HVS0eGe) |
-| 日本旅遊網站 | HTML, Sass, JS, Google Maps API | [Repo](https://github.com/doriskuo/NipponTrip) | [Demo](#) |
-| 成績計算網站 | HTML5, CSS3, JS, GSAP動畫, Merge Sort | [Repo](https://github.com/doriskuo/gpa-calculator)| [Demo](#) |
-| 本地與 Google 登入系統 | bcrypt, Google OAuth2, express-session, MongoDB CRUD | [Repo](https://github.com/doriskuo/express-auth-system) | [Demo](#) |
+| 日本旅遊網站 | HTML, Sass, JS, Google Maps API | [Repo](https://github.com/doriskuo/NipponTrip) |  |
+| 成績計算網站 | HTML5, CSS3, JS, GSAP動畫, Merge Sort | [Repo](https://github.com/doriskuo/gpa-calculator)|  |
+| 本地與 Google 登入系統 | bcrypt, Google OAuth2, express-session, MongoDB CRUD | [Repo](https://github.com/doriskuo/express-auth-system) |  |
 
 ### 📱 APP Projects
 | Project | 技術亮點 | GitHub | Demo |
 |---------|---------|--------|------|
-| 庫存計數器 | jQuery 變數與操作 | [Repo](https://codepen.io/doriskuo/pen/xxBOLwa) | [Demo](#) |
-| 手機 Demo | jQuery class/css 切換 | [Repo](https://codepen.io/doriskuo/pen/oNVLKva) | [Demo](#) |
-| to_do_list 購物車 | jQuery/JSON 動態生成清單 | [Repo](https://codepen.io/doriskuo/pen/vYPgGgY)| [Demo](#) |
-| 互動錄音播放鋼琴 | Vue.js, jQuery | [Repo](https://codepen.io/doriskuo/pen/qBwBQZX?editors=1010) | [Demo](#) |
-| 貪食蛇遊戲 | Canvas 2D, setInterval, localStorage 保存高分 | [Repo](https://github.com/doriskuo/snake-game.git)| [Demo](#) |
-| MERN 課程平台 | React, Node.js, Express, Passport JWT, MongoDB, Joi, bcrypt | [Repo](https://github.com/doriskuo/mern-project) | [Demo](#) |
+| 庫存計數器 | jQuery 變數與操作 | [Repo](https://codepen.io/doriskuo/pen/xxBOLwa) |  |
+| 手機 Demo | jQuery class/css 切換 | [Repo](https://codepen.io/doriskuo/pen/oNVLKva) |  |
+| to_do_list 購物車 | jQuery/JSON 動態生成清單 | [Repo](https://codepen.io/doriskuo/pen/vYPgGgY)|  |
+| 互動錄音播放鋼琴 | Vue.js, jQuery | [Repo](https://codepen.io/doriskuo/pen/qBwBQZX?editors=1010) |  |
+| 貪食蛇遊戲 | Canvas 2D, setInterval, localStorage 保存高分 | [Repo](https://github.com/doriskuo/snake-game.git)|  |
+| MERN 課程平台 | React, Node.js, Express, Passport JWT, MongoDB, Joi, bcrypt | [Repo](https://github.com/doriskuo/mern-project) |  |
 
 ### 🎨 功能練習 Projects
 | Project | 技術亮點 | GitHub | Demo |
 |---------|---------|--------|------|
-| SVG 動態應用 | SVG動畫應用 | [Repo](https://codepen.io/doriskuo/pen/yLjqzKV) | [Demo](#) |
-| CSS 屬性選擇器應用 | CSS屬性選擇器應用 | [Repo](https://codepen.io/doriskuo/pen/zYbxKWZ?editors=0100) | [Demo](#) |
-| 滑鼠貓 | jQuery mousemove、attr | [Repo](https://codepen.io/doriskuo/pen/LYaQPzE) | [Demo](#) |
-| 貓蘿蔔蹲 | jQuery mousemove、attr | [Repo](https://codepen.io/doriskuo/pen/KKEQwPV?editors=1010) | [Demo](#) |
+| SVG 動態應用 | SVG動畫應用 | [Repo](https://codepen.io/doriskuo/pen/yLjqzKV) |  |
+| CSS 屬性選擇器應用 | CSS屬性選擇器應用 | [Repo](https://codepen.io/doriskuo/pen/zYbxKWZ?editors=0100) |  |
+| 滑鼠貓 | jQuery mousemove、attr | [Repo](https://codepen.io/doriskuo/pen/LYaQPzE) |  |
+| 貓蘿蔔蹲 | jQuery mousemove、attr | [Repo](https://codepen.io/doriskuo/pen/KKEQwPV?editors=1010) |  |
 | 現代化 Dashboard 專案 | React, Tailwind CSS, Chart.js | [Repo](https://github.com/doriskuo/doriskuo.github.io-dashboard-project) | [Demo](https://doriskuo.github.io/doriskuo.github.io-dashboard-project/) |
-| 彈跳球遊戲 | HTML5 Canvas + JS | [Repo](https://github.com/doriskuo/bouncing-ball) | [Demo](#) |
+| 彈跳球遊戲 | HTML5 Canvas + JS | [Repo](https://github.com/doriskuo/bouncing-ball) | |
 
 ### 🖥 獨立開發 Projects
 | Project | 技術亮點 | GitHub | Demo |
