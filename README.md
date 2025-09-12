@@ -81,7 +81,7 @@
 ---
 
 ## 📫 Contact
-- Email: your.email@example.com  
-- Portfolio: [your-portfolio-url](#)  
+- Email: doriskuo730105@gmail.com 
+- Portfolio: [https://doriskuo.github.io/](#)
 - GitHub: [https://github.com/doriskuo](https://github.com/doriskuo)
 
