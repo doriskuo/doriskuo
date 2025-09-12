@@ -54,29 +54,29 @@
 ### 📱 APP Projects
 | Project | 技術亮點 | GitHub | Demo |
 |---------|---------|--------|------|
-| 庫存計數器 | jQuery 變數與操作 | [Repo](#) | [Demo](#) |
-| 手機 Demo | jQuery class/css 切換 | [Repo](#) | [Demo](#) |
-| to_do_list 購物車 | jQuery/JSON 動態生成清單 | [Repo](#) | [Demo](#) |
-| 互動錄音播放鋼琴 | Vue.js, jQuery | [Repo](#) | [Demo](#) |
-| 貪食蛇遊戲 | Canvas 2D, setInterval, localStorage 保存高分 | [Repo](#) | [Demo](#) |
-| MERN 課程平台 | React, Node.js, Express, Passport JWT, MongoDB, Joi, bcrypt | [Repo](#) | [Demo](#) |
+| 庫存計數器 | jQuery 變數與操作 | [Repo](https://codepen.io/doriskuo/pen/xxBOLwa) | [Demo](#) |
+| 手機 Demo | jQuery class/css 切換 | [Repo](https://codepen.io/doriskuo/pen/oNVLKva) | [Demo](#) |
+| to_do_list 購物車 | jQuery/JSON 動態生成清單 | [Repo](https://codepen.io/doriskuo/pen/vYPgGgY)| [Demo](#) |
+| 互動錄音播放鋼琴 | Vue.js, jQuery | [Repo](https://codepen.io/doriskuo/pen/qBwBQZX?editors=1010) | [Demo](#) |
+| 貪食蛇遊戲 | Canvas 2D, setInterval, localStorage 保存高分 | [Repo](https://github.com/doriskuo/snake-game.git)| [Demo](#) |
+| MERN 課程平台 | React, Node.js, Express, Passport JWT, MongoDB, Joi, bcrypt | [Repo](https://github.com/doriskuo/mern-project) | [Demo](#) |
 
 ### 🎨 功能練習 Projects
 | Project | 技術亮點 | GitHub | Demo |
 |---------|---------|--------|------|
-| SVG 動態應用 | SVG動畫應用 | [Repo](#) | [Demo](#) |
-| CSS 屬性選擇器應用 | CSS屬性選擇器應用 | [Repo](#) | [Demo](#) |
-| 滑鼠貓 | jQuery mousemove、attr | [Repo](#) | [Demo](#) |
-| 貓蘿蔔蹲 | jQuery mousemove、attr | [Repo](#) | [Demo](#) |
-| 現代化 Dashboard 專案 | React, Tailwind CSS, Chart.js | [Repo](#) | [Demo](#) |
-| 彈跳球遊戲 | HTML5 Canvas + JS | [Repo](#) | [Demo](#) |
+| SVG 動態應用 | SVG動畫應用 | [Repo](https://codepen.io/doriskuo/pen/yLjqzKV) | [Demo](#) |
+| CSS 屬性選擇器應用 | CSS屬性選擇器應用 | [Repo](https://codepen.io/doriskuo/pen/zYbxKWZ?editors=0100) | [Demo](#) |
+| 滑鼠貓 | jQuery mousemove、attr | [Repo](https://codepen.io/doriskuo/pen/LYaQPzE) | [Demo](#) |
+| 貓蘿蔔蹲 | jQuery mousemove、attr | [Repo](https://codepen.io/doriskuo/pen/KKEQwPV?editors=1010) | [Demo](#) |
+| 現代化 Dashboard 專案 | React, Tailwind CSS, Chart.js | [Repo](https://github.com/doriskuo/doriskuo.github.io-dashboard-project) | [Demo](https://doriskuo.github.io/doriskuo.github.io-dashboard-project/) |
+| 彈跳球遊戲 | HTML5 Canvas + JS | [Repo](https://github.com/doriskuo/bouncing-ball) | [Demo](#) |
 
 ### 🖥 獨立開發 Projects
 | Project | 技術亮點 | GitHub | Demo |
 |---------|---------|--------|------|
-| 個人作品集網頁 | HTML, Sass, JS, jQuery, Skrollr, Swiper | [Repo](#) | [Demo](#) |
-| WeatherNow 即時天氣小幫手 | React 18, TailwindCSS, Fetch API | [Repo](#) | [Demo](#) |
-| Vue 驅動的迷因微恐遊 | Vue3, Vue Router, Timer 控制 | [Repo](#) | [Demo](#) |
+| 個人作品集網頁 | HTML, Sass, JS, jQuery, Skrollr, Swiper | [Repo](https://github.com/doriskuo/doriskuo.github.io) | [Demo](https://doriskuo.github.io/) |
+| WeatherNow 即時天氣小幫手 | React 18, TailwindCSS, Fetch API | [Repo](https://github.com/doriskuo/doriskuo.github.io-react-weather-app) | [Demo](https://doriskuo.github.io/doriskuo.github.io-react-weather-app/#/) |
+| Vue 驅動的迷因微恐遊 | Vue3, Vue Router, Timer 控制 | [Repo](https://github.com/doriskuo/doris.github.io-vue-escape-game-) | [Demo](https://doriskuo.github.io/doris.github.io-vue-escape-game-/) |
 
 ---
 
