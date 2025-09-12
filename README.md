@@ -39,17 +39,17 @@
 ### 💻 WEB Projects
 | Project | 技術亮點 | GitHub | Demo |
 |---------|---------|--------|------|
-| 線上名片 | 設計規劃 | [Repo](#) | [Demo](#) |
-| 天氣盒子 | HTML/CSS 綜合應用 | [Repo](#) | [Demo](#) |
-| 天氣盒子 Q 版 | HTML/CSS | [Repo](#) | [Demo](#) |
-| bootstrap-捲動式網頁 | Bootstrap + Skrollr 滾動效果 | [Repo](#) | [Demo](#) |
-| yellow-studio設計工作室網頁 | jQuery + RWD | [Repo](#) | [Demo](#) |
-| Vue.js-仿博客來書城網頁 | Vue v-if/v-show條件渲染 | [Repo](#) | [Demo](#) |
-| Vue.js-仿課程網站 | Vue + Ajax非同步資料渲染 | [Repo](#) | [Demo](#) |
-| 現代化 Admin-Dashboard | SSR, Hot Module Replacement, TypeScript, TailwindCSS | [Repo](#) | [Demo](#) |
-| 日本旅遊網站 | HTML, Sass, JS, Google Maps API | [Repo](#) | [Demo](#) |
-| 成績計算網站 | HTML5, CSS3, JS, GSAP動畫, Merge Sort | [Repo](#) | [Demo](#) |
-| 本地與 Google 登入系統 | bcrypt, Google OAuth2, express-session, MongoDB CRUD | [Repo](#) | [Demo](#) |
+| 線上名片 | 設計規劃 | [Repo](https://codepen.io/doriskuo/pen/LYmNpYm)| [Demo](#) |
+| 天氣盒子 | HTML/CSS 綜合應用 | [Repo](https://codepen.io/doriskuo/pen/BabNWMM) | [Demo](#) |
+| 天氣盒子 Q 版 | HTML/CSS | [Repo](https://codepen.io/doriskuo/pen/MWxKJXr) | [Demo](#) |
+| bootstrap-捲動式網頁 | Bootstrap + Skrollr 滾動效果 | [Repo](https://codepen.io/doriskuo/pen/LYaOVQx) | [Demo](#) |
+| yellow-studio設計工作室網頁 | jQuery + RWD | [Repo](https://codepen.io/doriskuo/pen/Jjzpvea?editors=0010) | [Demo](#) |
+| Vue.js-仿博客來書城網頁 | Vue v-if/v-show條件渲染 | [Repo](https://codepen.io/doriskuo/pen/ExMReax)| [Demo](#) |
+| Vue.js-仿課程網站 | Vue + Ajax非同步資料渲染 | [Repo](https://codepen.io/doriskuo/pen/oNVmWog?editors=1010) | [Demo](#) |
+| 現代化 Admin-Dashboard | SSR, Hot Module Replacement, TypeScript, TailwindCSS | [Repo](https://codepen.io/doriskuo/pen/oNVmWog?editors=1010) | [Demo](https://admin-dashboard-git-main-doriskuos-projects.vercel.app/?_vercel_share=smriKycZnbghu5oE68UuETXx7HVS0eGe) |
+| 日本旅遊網站 | HTML, Sass, JS, Google Maps API | [Repo](https://github.com/doriskuo/NipponTrip) | [Demo](#) |
+| 成績計算網站 | HTML5, CSS3, JS, GSAP動畫, Merge Sort | [Repo](https://github.com/doriskuo/gpa-calculator)| [Demo](#) |
+| 本地與 Google 登入系統 | bcrypt, Google OAuth2, express-session, MongoDB CRUD | [Repo](https://github.com/doriskuo/express-auth-system) | [Demo](#) |
 
 ### 📱 APP Projects
 | Project | 技術亮點 | GitHub | Demo |
