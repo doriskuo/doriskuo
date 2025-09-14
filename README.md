@@ -37,7 +37,7 @@
 ## 🚀 專案集錦
 
 ### 💻 WEB Projects
-| Project | 技術亮點 | GitHub | Demo |
+| Project | 技術亮點 | GitHub/Codepen | Demo |
 |---------|---------|--------|------|
 | 線上名片 | 設計規劃 | [Repo](https://codepen.io/doriskuo/pen/LYmNpYm)|  |
 | 天氣盒子 | HTML/CSS 綜合應用 | [Repo](https://codepen.io/doriskuo/pen/BabNWMM) |  |
@@ -52,7 +52,7 @@
 | 本地與 Google 登入系統 | bcrypt, Google OAuth2, express-session, MongoDB CRUD | [Repo](https://github.com/doriskuo/express-auth-system) |  |
 
 ### 📱 APP Projects
-| Project | 技術亮點 | GitHub | Demo |
+| Project | 技術亮點 | GitHub/Codepen | Demo |
 |---------|---------|--------|------|
 | 庫存計數器 | jQuery 變數與操作 | [Repo](https://codepen.io/doriskuo/pen/xxBOLwa) |  |
 | 手機 Demo | jQuery class/css 切換 | [Repo](https://codepen.io/doriskuo/pen/oNVLKva) |  |
@@ -62,7 +62,7 @@
 | MERN 課程平台 | React, Node.js, Express, Passport JWT, MongoDB, Joi, bcrypt | [Repo](https://github.com/doriskuo/mern-project) |  |
 
 ### 🎨 功能練習 Projects
-| Project | 技術亮點 | GitHub | Demo |
+| Project | 技術亮點 | GitHub/Codepen | Demo |
 |---------|---------|--------|------|
 | SVG 動態應用 | SVG動畫應用 | [Repo](https://codepen.io/doriskuo/pen/yLjqzKV) |  |
 | CSS 屬性選擇器應用 | CSS屬性選擇器應用 | [Repo](https://codepen.io/doriskuo/pen/zYbxKWZ?editors=0100) |  |
