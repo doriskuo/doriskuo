@@ -46,7 +46,7 @@
 | yellow-studio設計工作室網頁 | jQuery + RWD | [Repo](https://codepen.io/doriskuo/pen/Jjzpvea?editors=0010) |  |
 | Vue.js-仿博客來書城網頁 | Vue v-if/v-show條件渲染 | [Repo](https://codepen.io/doriskuo/pen/ExMReax)|  |
 | Vue.js-仿課程網站 | Vue + Ajax非同步資料渲染 | [Repo](https://codepen.io/doriskuo/pen/oNVmWog?editors=1010) |  |
-| 現代化 Admin-Dashboard | SSR, Hot Module Replacement, TypeScript, TailwindCSS | [Repo](https://codepen.io/doriskuo/pen/oNVmWog?editors=1010) | [Demo](https://admin-dashboard-git-main-doriskuos-projects.vercel.app/?_vercel_share=smriKycZnbghu5oE68UuETXx7HVS0eGe) |
+| 現代化 Admin-Dashboard | SSR, Hot Module Replacement, TypeScript, TailwindCSS | [Repo](https://github.com/doriskuo/admin-dashboard) | [Demo](https://admin-dashboard-git-main-doriskuos-projects.vercel.app/?_vercel_share=smriKycZnbghu5oE68UuETXx7HVS0eGe) |
 | 日本旅遊網站 | HTML, Sass, JS, Google Maps API | [Repo](https://github.com/doriskuo/NipponTrip) |  |
 | 成績計算網站 | HTML5, CSS3, JS, GSAP動畫, Merge Sort | [Repo](https://github.com/doriskuo/gpa-calculator)|  |
 | 本地與 Google 登入系統 | bcrypt, Google OAuth2, express-session, MongoDB CRUD | [Repo](https://github.com/doriskuo/express-auth-system) |  |
