@@ -34,12 +34,19 @@
 
 ---
 
-## 🚀 專案集錦
-
-### 💻 WEB Projects
-| Project | 技術亮點 | GitHub/Codepen | Demo |
+## 🖥 獨立開發 Projects
+| Project | 技術亮點 | GitHub | Demo |
 |---------|---------|--------|------|
 | 🎮 MERN Game Store | MERN 全端專案：React 19 + Express + MongoDB + JWT 登入系統，Render / Vercel 雲端部署，GSAP 動畫、SVG 動態導覽列、CORS 設定、環境變數管理 | [Repo](https://github.com/doriskuo/mern-game-store) | [Demo](https://mern-game-store-git-main-doriskuos-projects.vercel.app) |
+| 個人作品集網頁 | HTML, Sass, JS, jQuery, Skrollr, Swiper | [Repo](https://github.com/doriskuo/doriskuo.github.io) | [Demo](https://doriskuo.github.io/) |
+| WeatherNow 即時天氣小幫手 | React 18, TailwindCSS, Fetch API | [Repo](https://github.com/doriskuo/doriskuo.github.io-react-weather-app) | |
+| Vue 驅動的迷因微恐遊 | Vue3, Vue Router, Timer 控制 | [Repo](https://github.com/doriskuo/doris.github.io-vue-escape-game-) | [Demo](https://doriskuo.github.io/doris.github.io-vue-escape-game-/) |
+
+---
+
+## 💻 WEB Projects
+| Project | 技術亮點 | GitHub/Codepen | Demo |
+|---------|---------|--------|------|
 | 線上名片 | 設計規劃 | [Repo](https://codepen.io/doriskuo/pen/LYmNpYm)|  |
 | 天氣盒子 | HTML/CSS 綜合應用 | [Repo](https://codepen.io/doriskuo/pen/BabNWMM) |  |
 | 天氣盒子 Q 版 | HTML/CSS | [Repo](https://codepen.io/doriskuo/pen/MWxKJXr) |  |
@@ -52,7 +59,9 @@
 | 成績計算網站 | HTML5, CSS3, JS, GSAP動畫, Merge Sort | [Repo](https://github.com/doriskuo/gpa-calculator)|  |
 | 本地與 Google 登入系統 | bcrypt, Google OAuth2, express-session, MongoDB CRUD | [Repo](https://github.com/doriskuo/express-auth-system) |  |
 
-### 📱 APP Projects
+---
+
+## 📱 APP Projects
 | Project | 技術亮點 | GitHub/Codepen | Demo |
 |---------|---------|--------|------|
 | 庫存計數器 | jQuery 變數與操作 | [Repo](https://codepen.io/doriskuo/pen/xxBOLwa) |  |
@@ -62,7 +71,9 @@
 | 貪食蛇遊戲 | Canvas 2D, setInterval, localStorage 保存高分 | [Repo](https://github.com/doriskuo/snake-game.git)|  |
 | MERN 課程平台 | React, Node.js, Express, Passport JWT, MongoDB, Joi, bcrypt | [Repo](https://github.com/doriskuo/mern-project) |  |
 
-### 🎨 功能練習 Projects
+---
+
+## 🎨 功能練習 Projects
 | Project | 技術亮點 | GitHub/Codepen | Demo |
 |---------|---------|--------|------|
 | SVG 動態應用 | SVG動畫應用 | [Repo](https://codepen.io/doriskuo/pen/yLjqzKV) |  |
@@ -71,13 +82,6 @@
 | 貓蘿蔔蹲 | jQuery mousemove、attr | [Repo](https://codepen.io/doriskuo/pen/KKEQwPV?editors=1010) |  |
 | 現代化 Dashboard 專案 | React, Tailwind CSS, Chart.js | [Repo](https://github.com/doriskuo/doriskuo.github.io-dashboard-project) | [Demo](https://doriskuo.github.io/doriskuo.github.io-dashboard-project/) |
 | 彈跳球遊戲 | HTML5 Canvas + JS | [Repo](https://github.com/doriskuo/bouncing-ball) | |
-
-### 🖥 獨立開發 Projects
-| Project | 技術亮點 | GitHub | Demo |
-|---------|---------|--------|------|
-| 個人作品集網頁 | HTML, Sass, JS, jQuery, Skrollr, Swiper | [Repo](https://github.com/doriskuo/doriskuo.github.io) | [Demo](https://doriskuo.github.io/) |
-| WeatherNow 即時天氣小幫手 | React 18, TailwindCSS, Fetch API | [Repo](https://github.com/doriskuo/doriskuo.github.io-react-weather-app) | |
-| Vue 驅動的迷因微恐遊 | Vue3, Vue Router, Timer 控制 | [Repo](https://github.com/doriskuo/doris.github.io-vue-escape-game-) | [Demo](https://doriskuo.github.io/doris.github.io-vue-escape-game-/) |
 
 ---
 
