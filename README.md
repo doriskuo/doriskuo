@@ -37,7 +37,7 @@
 ## 🖥 獨立開發 Projects
 | Project | 技術亮點 | GitHub | Demo |
 |---------|---------|--------|------|
-| 🎮 MERN Game Store | MERN 全端專案：React 19 + Express + MongoDB + JWT 登入系統，Render / Vercel 雲端部署，GSAP 動畫、SVG 動態導覽列、CORS 設定、環境變數管理 | [Repo](https://github.com/doriskuo/mern-game-store) | [Demo](https://mern-game-store-git-main-doriskuos-projects.vercel.app) |
+| 🎮 MERN Game Store | 全端遊戲商店平台：支援 Google 登入與購物車系統，使用 React 19 + Express + MongoDB + JWT，Render / Vercel 雲端部署、GSAP 動畫、SVG 導覽列、環境變數管理 | [Repo](https://github.com/doriskuo/mern-game-store) | [Demo](https://mern-game-store-git-main-doriskuos-projects.vercel.app) |
 | 個人作品集網頁 | HTML, Sass, JS, jQuery, Skrollr, Swiper | [Repo](https://github.com/doriskuo/doriskuo.github.io) | [Demo](https://doriskuo.github.io/) |
 | WeatherNow 即時天氣小幫手 | React 18, TailwindCSS, Fetch API | [Repo](https://github.com/doriskuo/doriskuo.github.io-react-weather-app) | |
 | Vue 驅動的迷因微恐遊 | Vue3, Vue Router, Timer 控制 | [Repo](https://github.com/doriskuo/doris.github.io-vue-escape-game-) | [Demo](https://doriskuo.github.io/doris.github.io-vue-escape-game-/) |
