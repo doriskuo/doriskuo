@@ -43,7 +43,7 @@
 |---------|---------|--------|------|
 | 🎮 MERN Game Store | **全端遊戲商店平台** —— 支援 Google OAuth 登入、商品查詢、購物車與後台管理系統。<br>前端以 **React 19 + TailwindCSS** 實作互動式介面，後端以 **Express + MongoDB** 架構 RESTful API，並使用 **JWT 驗證** 與 **Render / Vercel 雲端部署**。<br>整體整合環境變數管理、圖片伺服與 CORS 驗證機制，展現完整的 **MERN 全端開發流程**。<br>亮點：RWD 自適應、GSAP 動畫、SVG 導覽列設計、Admin CRUD 查詢功能。 | [Repo](https://github.com/doriskuo/mern-game-store) | [Demo](https://mern-game-store-git-main-doriskuos-projects.vercel.app) |
 | 個人作品集網頁 | HTML, Sass, JS, jQuery, Skrollr, Swiper | [Repo](https://github.com/doriskuo/doriskuo.github.io) | [Demo](https://doriskuo.github.io/) |
-| WeatherNow 即時天氣小幫手 | React 18, TailwindCSS, Fetch API | [Repo](https://github.com/doriskuo/doriskuo.github.io-react-weather-app) | |
+| WeatherNow 即時天氣小幫手 | React 18, TailwindCSS, Fetch API | [Repo](https://github.com/doriskuo/doriskuo.github.io-react-weather-app) |[Demo](https://doriskuo-github-io-react-weather-git-0680e8-doriskuos-projects.vercel.app)|
 | Vue 驅動的迷因微恐遊 | Vue3, Vue Router, Timer 控制 | [Repo](https://github.com/doriskuo/doris.github.io-vue-escape-game-) | [Demo](https://doriskuo.github.io/doris.github.io-vue-escape-game-/) |
 
 ---
