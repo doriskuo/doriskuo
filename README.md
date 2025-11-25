@@ -90,6 +90,5 @@
 ---
 
 ## 📫 Contact
-- Email: doriskuo730105@gmail.com  
 - Portfolio: [https://doriskuo.github.io/](https://doriskuo.github.io/)  
 - GitHub: [https://github.com/doriskuo](https://github.com/doriskuo)
