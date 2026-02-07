@@ -59,7 +59,7 @@
 | 🌊 First Vibe Fluid | **3D & Motion 視覺敘事實驗專案** —— 第一個以 **Vibe Coding** 完整完成的作品，使用 Antigravity IDE 開發。<br>以 **Next.js 16（App Router）+ TypeScript** 為基礎，結合 **Three.js / React Three Fiber / GSAP ScrollTrigger / Framer Motion / Lenis**，打造從「液態 → 產品」的完整品牌視覺旅程。<br>實作 **Custom WebGL Shaders、玻璃材質（MeshTransmissionMaterial）、粒子系統**，並兼顧效能與模組化架構，達成高幀率流暢動畫體驗。 | [Repo](https://github.com/doriskuo/first-vibe-fluid) | [Demo](https://first-vibe-fluid-doriskuos-projects.vercel.app/) |
 | 🃏 Black Jack 21 | **前後端分離協作的 Blackjack 遊戲專案** —— 由前端工程師 Doris 與後端工程師 Iris Tseng 共同完成。<br>我負責 **前端 UI / 動畫 / 遊戲流程設計與 API 串接**；後端負責 **Blackjack 遊戲邏輯與 API 設計**。<br>此專案為我首次與另一位工程師正式分工協作，完整呈現現代 **Frontend × Backend API 協作流程**，並實際串接真實後端服務完成可玩產品。 | [Repo](https://github.com/doriskuo/black-jack-21) |
 | 個人作品集網頁 | HTML, Sass, JS, jQuery, Skrollr, Swiper | [Repo](https://github.com/doriskuo/doriskuo.github.io) | [Demo](https://doriskuo.github.io/) |
-| WeatherNow 即時天氣小幫手 | React 18, TailwindCSS, Fetch API | [Repo](https://github.com/doriskuo/doriskuo.github.io-react-weather-app) |[Demo](https://doriskuo-github-io-react-weather-git-0680e8-doriskuos-projects.vercel.app)|
+| WeatherNow 即時天氣小幫手 | React 18, TailwindCSS, Fetch API | [Repo](https://github.com/doriskuo/doriskuo.github.io-react-weather-app) |[Demo](https://doriskuo-github-io-react-weather-ap.vercel.app/)|
 | Vue 驅動的迷因微恐遊 | Vue3, Vue Router, Timer 控制 | [Repo](https://github.com/doriskuo/doris.github.io-vue-escape-game-) | [Demo](https://doriskuo.github.io/doris.github.io-vue-escape-game-/) |
 
 ---
