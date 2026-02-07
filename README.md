@@ -15,26 +15,40 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frameworks & Libraries:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**3D / Animation / Motion:**  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
+![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-222222?style=for-the-badge)  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)  
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge)  
+![Lenis](https://img.shields.io/badge/Lenis-Smooth%20Scroll-555555?style=for-the-badge)
+
+**State / Validation:**  
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)  
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
 
 **Databases & Auth:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONwebtokens&logoColor=white)  
-![Passport](https://img.shields.io/badge/Passport-34E0A1?style=for-the-badge)  
+![Passport](https://img.shields.io/badge/Passport-34E0A1?style=for-the-badge)
 
 **Tools & Others:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge)  
 ![Skrollr](https://img.shields.io/badge/Skrollr-00C9A7?style=for-the-badge)  
-![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge)  
+![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge)
 
 ---
 
@@ -42,6 +56,8 @@
 | Project | 技術亮點 | GitHub | Demo |
 |---------|---------|--------|------|
 | 🎮 MERN Game Store | **全端遊戲商店平台** —— 支援 Google OAuth 登入、商品查詢、購物車與後台管理系統。<br>前端以 **React 19 + TailwindCSS** 實作互動式介面，後端以 **Express + MongoDB** 架構 RESTful API，並使用 **JWT 驗證** 與 **Render / Vercel 雲端部署**。<br>整體整合環境變數管理、圖片伺服與 CORS 驗證機制，展現完整的 **MERN 全端開發流程**。<br>亮點：RWD 自適應、GSAP 動畫、SVG 導覽列設計、Admin CRUD 查詢功能。 | [Repo](https://github.com/doriskuo/mern-game-store) | [Demo](https://mern-game-store-git-main-doriskuos-projects.vercel.app) |
+| 🌊 First Vibe Fluid | **3D & Motion 視覺敘事實驗專案** —— 第一個以 **Vibe Coding** 完整完成的作品，使用 Antigravity IDE 開發。<br>以 **Next.js 16（App Router）+ TypeScript** 為基礎，結合 **Three.js / React Three Fiber / GSAP ScrollTrigger / Framer Motion / Lenis**，打造從「液態 → 產品」的完整品牌視覺旅程。<br>實作 **Custom WebGL Shaders、玻璃材質（MeshTransmissionMaterial）、粒子系統**，並兼顧效能與模組化架構，達成高幀率流暢動畫體驗。 | [Repo](https://github.com/doriskuo/first-vibe-fluid) | [Demo](https://first-vibe-fluid-doriskuos-projects.vercel.app/) |
+| 🃏 Black Jack 21 | **前後端分離協作的 Blackjack 遊戲專案** —— 由前端工程師 Doris 與後端工程師 Iris Tseng 共同完成。<br>我負責 **前端 UI / 動畫 / 遊戲流程設計與 API 串接**；後端負責 **Blackjack 遊戲邏輯與 API 設計**。<br>此專案為我首次與另一位工程師正式分工協作，完整呈現現代 **Frontend × Backend API 協作流程**，並實際串接真實後端服務完成可玩產品。 | [Repo](https://github.com/doriskuo/black-jack-21) |
 | 個人作品集網頁 | HTML, Sass, JS, jQuery, Skrollr, Swiper | [Repo](https://github.com/doriskuo/doriskuo.github.io) | [Demo](https://doriskuo.github.io/) |
 | WeatherNow 即時天氣小幫手 | React 18, TailwindCSS, Fetch API | [Repo](https://github.com/doriskuo/doriskuo.github.io-react-weather-app) |[Demo](https://doriskuo-github-io-react-weather-git-0680e8-doriskuos-projects.vercel.app)|
 | Vue 驅動的迷因微恐遊 | Vue3, Vue Router, Timer 控制 | [Repo](https://github.com/doriskuo/doris.github.io-vue-escape-game-) | [Demo](https://doriskuo.github.io/doris.github.io-vue-escape-game-/) |
